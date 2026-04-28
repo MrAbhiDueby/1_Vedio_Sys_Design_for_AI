@@ -1,6 +1,7 @@
 # Topics To Be Covered
 
 ## 1) What is System Design
+System Design = Components + Data Flow + Constraints + Tradeoffs****
 
 ## 2) HLD and LLD and Their Learning Roadmap
 

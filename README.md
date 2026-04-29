@@ -1,7 +1,7 @@
 # Topics To Be Covered
 
 ## 1) What is System Design
-System Design = Components + Data Flow + Constraints + Tradeoffs****
+System Design = Components + Data Flow + Constraints + Tradeoffs
 
 ## 2) HLD and LLD and Their Learning Roadmap
 
@@ -25,7 +25,7 @@ System Design = Components + Data Flow + Constraints + Tradeoffs****
 
 **2.1.9)** HLD Diagrams for AI Systems (Component, Sequence, Deployment, Agent Flow)  
 
-**2.1.10)** Practice 4-5 HLD Examples (Agentic RAG, MCP System, AI Copilot, Multi-Agent Workflow, Split DNN Architecture)  
+**2.1.10)** Practice 4-5 HLD Examples (Agentic RAG, MCP System, AI Copilot, Multi-Agent Workflow)  
 
 ---
 
@@ -49,7 +49,7 @@ System Design = Components + Data Flow + Constraints + Tradeoffs****
 
 **2.2.9)** AI-Native Design Patterns (Prompt Strategy, Tool Adapter, Chain Pattern)  
 
-**2.2.10)** Practice 4-5 LLD Examples (Parking Lot, Elevator, Agent Framework, RAG Workflow)  
+**2.2.10)** Practice 4-5 LLD Examples
 
 ---
 
@@ -69,10 +69,10 @@ System Design = Components + Data Flow + Constraints + Tradeoffs****
 ## 4) Primitives for AI-Native System Design
 
 **4.1)** Interaction  
-**4.2)** Orchestration  
-**4.3)** Coordination  
-**4.4)** Semantic Memory  
-**4.5)** Retrieval  
-**4.6)** Reasoning  
+**4.2)** Orchestration 
+**4.3)** Reasoning + compute
+**4.4)** Coordination  
+**4.5)** Semantic Memory  
+**4.6)** Retrieval  
 **4.7)** Observability  
 **4.8)** Recovery / Guardrails
